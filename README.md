@@ -4,6 +4,7 @@ While linear regression assumes a linear relationship between variables, polynom
 
 The general form of a polynomial regression equation is:The general form of a polynomial regression equation is:
 ![image](https://github.com/sukritishuklaa512/Polynomial_Regression/assets/166643983/3c8736a1-2834-4fa7-892c-6a75936c4ac4)
+
 Y represents the dependent variable,X denotes the independent variable(s)are the coefficients to be estimated, and ϵ represents the error term.
 
 The polynomial regression function works by minimizing the sum of squared differences between the observed and predicted values, typically using a method like ordinary least squares (OLS).This involves finding the coefficients that best fit the data.The degree of the polynomial (the highest power of
